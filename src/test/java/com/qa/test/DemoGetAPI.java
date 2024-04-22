@@ -63,5 +63,13 @@ public class DemoGetAPI {
 		
 		
 	}
+	
+	public void test_06()
+	{
+		
+		// This is new testing commit to check the changes on github
+		
+		
+	}
 
 }
